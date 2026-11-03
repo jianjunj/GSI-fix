@@ -61,4 +61,5 @@
  gmi_gpm                   0.000      1.000       221    15   207
  mws_metop-sg-a1         -49.312      1.049        95     7    89
  amsr2_gcom-w1             0.000      1.000       243     1   243
+ hyms_spire              -43.875      2.250        40     1    40
 !sat_sis                  start       step      nstep  edge1  edge2
